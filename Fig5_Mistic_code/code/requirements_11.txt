@@ -1,0 +1,14 @@
+
+
+
+napari==0.4.12
+Pillow==6.2.0
+tifffile==2020.10.1
+tifftools==1.2.9
+
+
+
+
+
+import tifffile
+from PIL import TiffImagePlugin
