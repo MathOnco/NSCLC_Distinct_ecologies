@@ -9,4 +9,4 @@ Code for paper 'Distinct tumor-immune ecologies in NSCLC patients predict progre
 * Predictions using NN SDM: Refer to an implementation of the NN SDMs [here](https://github.com/MathOnco/onubogu_spatial_analysis_of_recurrent_glioblastoma/tree/main/reflectance_sdm).
 * Fig3_code: Code outlines to generate neighborhoods from cell segments and quadrats.
 * Fig4_predictions: Code outlines to generate disease progression predictions using SVMs.
-* Fig5_Mistic_code: Download the progression risk maps from <<>> into Fig5_Mistic_code/code/user_inputs/figures/ and run Mistic as detailed [here](https://github.com/MathOnco/Mistic).
+* Fig5_Mistic_code: Run Mistic as detailed [here](https://github.com/MathOnco/Mistic).
